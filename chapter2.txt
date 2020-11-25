@@ -1,1 +1,1 @@
-If world stops rotating , what happens ?
+If world stops scaling , what happens scale ?
